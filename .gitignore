@@ -9,9 +9,6 @@ try-final/.idea/
 try-final/__pycache__/
 *.pyc
 
-# Training dataset - DO NOT upload
-try-final/data/
-
 # General
 .DS_Store
 Thumbs.db
